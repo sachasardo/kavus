@@ -30,3 +30,23 @@ body {
   height: 200;
   width: 250;
 }
+#navbar {
+  background-color: #EBF0F5;
+  top: 0px;
+  bottom: 3px;
+  width: 100%;
+  position: absolute;
+  height: 60px;
+  text-align: right;
+}
+#navbar li {
+  padding: 10px;
+}
+
+
+
+
+
+
+
+
